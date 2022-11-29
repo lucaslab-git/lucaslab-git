@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and filmmaker</h3>
 
 
--[Hauptprogram](https://github.com/lucaslab-git/Hauptprogram)
+- [Hauptprogram](https://github.com/lucaslab-git/Hauptprogram)
 
 <h3 align="left">SFZ-Projects</h3>
 - [Hauptprogram](https://github.com/lucaslab-git/Hauptprogram)
