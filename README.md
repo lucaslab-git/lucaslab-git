@@ -8,7 +8,14 @@
 - [Motor-Bibo](https://github.com/lucaslab-git/Motor-Bibo)
 - [Test-Bibo](https://github.com/lucaslab-git/Test-Bibo)
 
-- I’m currently working on **Smart Home, Rockets**
+<h3 align="left">School</h3>
+
+- [TGI11](https://github.com/lucaslab-git/Software-TGI11)
+
+<h3 align="left">DIY</h3>
+
+- [Zeitungswagen](https://github.com/lucaslab-git/Zeitungswagen)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
