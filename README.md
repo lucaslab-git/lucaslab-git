@@ -17,10 +17,10 @@
 [TGI11](https://github.com/lucaslab-git/Software-TGI11)
 
 <h3 align="left">SFZ-Projects</h3>
-<ul>
-  <li>([Hauptprogram](https://github.com/lucaslab-git/Hauptprogram))</li>
-  <li>[Sensor-Bibo](https://github.com/lucaslab-git/Sensor-Bibo)</li>
-  <li>[Motor-Bibo](https://github.com/lucaslab-git/Motor-Bibo)</li>
-  <li>[Test-Bibo](https://github.com/lucaslab-git/Test-Bibo)</li>
+
+- [Hauptprogram](https://github.com/lucaslab-git/Hauptprogram)
+- [Sensor-Bibo](https://github.com/lucaslab-git/Sensor-Bibo)
+- [Motor-Bibo](https://github.com/lucaslab-git/Motor-Bibo)
+- [Test-Bibo](https://github.com/lucaslab-git/Test-Bibo)
   
-</ul>
+
