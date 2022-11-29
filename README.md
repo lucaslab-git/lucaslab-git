@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaslab-git&label=Profile%20views&color=0e75b6&style=flat" alt="lucaslab-git" /> </p>
 
-- 🔭 I’m currently working on **Smart Home, Rockets**
+- I’m currently working on **Smart Home, Rockets**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
