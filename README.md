@@ -18,10 +18,11 @@
 
 
 
-<h3 align="right">Connect with me:</h3>  | <h3 align="left">Languages and Tools:</h3>
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+|<h3 align="right">Connect with me:</h3>|   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 <h3 align="right">Connect with me:</h3>
 <p align="left">       
