@@ -3,7 +3,7 @@
 
 
 
-<h4 align="left">SFZ-Projects</h4>
+<h3 align="left">SFZ-Projects</h3>
 - [Hauptprogram](https://github.com/lucaslab-git/Hauptprogram)
 - [Sensor-Bibo](https://github.com/lucaslab-git/Sensor-Bibo)
 - [Motor-Bibo](https://github.com/lucaslab-git/Motor-Bibo)
