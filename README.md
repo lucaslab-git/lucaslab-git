@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A passionate developer and filmmaker</h3>
 
-
-- [Hauptprogram](https://github.com/lucaslab-git/Hauptprogram)
-
-<h3 align="left">SFZ-Projects</h3>
 - [Hauptprogram](https://github.com/lucaslab-git/Hauptprogram)
 - [Sensor-Bibo](https://github.com/lucaslab-git/Sensor-Bibo)
 - [Motor-Bibo](https://github.com/lucaslab-git/Motor-Bibo)
