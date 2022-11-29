@@ -20,7 +20,7 @@
 
 
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">       
 <a href="https://www.instagram.com/lucas._lab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lucas._lab/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCdmzPj5vqmAqp09ZjEvc7XA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdmzpj5vqmaqp09zjevc7xa" height="30" width="40" /></a>
