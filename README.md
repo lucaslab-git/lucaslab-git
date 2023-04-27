@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luca Schweda</h1>
 <h3 align="center">A passionate developer and coder</h3>
-<h3 align="left">SFZ-Projects</h3>
+
  - [Website](https://lucaschweda.com)
  
 <h3 align="left">SFZ-Projects</h3>
