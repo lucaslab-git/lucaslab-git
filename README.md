@@ -17,7 +17,7 @@
 <h3 align="left">DIY</h3>
 
 - [Zeitungswagen](https://github.com/lucaslab-git/Zeitungswagen)
-- [Website](https://github.com/lucaslab-git/lucaschweda-website)
+- [Website](https://github.com/lucaslab-git/lucaschwedacom)
 
 
 
