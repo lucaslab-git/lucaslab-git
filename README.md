@@ -2,26 +2,6 @@
 <h3 align="center">A passionate developer and coder</h3>
 
 ### [Link](https://lucaschweda.com) to my Website
- 
-<h3 align="left">SFZ-Projects</h3>
-
-- [Hauptprogram](https://github.com/lucaslab-git/Hauptprogram)
-- [Sensor-Bibo](https://github.com/lucaslab-git/Sensor-Bibo)
-- [Motor-Bibo](https://github.com/lucaslab-git/Motor-Bibo)
-- [Test-Bibo](https://github.com/lucaslab-git/Test-Bibo)
-
-<h3 align="left">School</h3>
-
-- [TGI11](https://github.com/lucaslab-git/Software-TGI11)
-
-<h3 align="left">DIY</h3>
-
-- [Zeitungswagen](https://github.com/lucaslab-git/Zeitungswagen)
-- [Website](https://github.com/lucaslab-git/lucaschwedacom)
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">       
